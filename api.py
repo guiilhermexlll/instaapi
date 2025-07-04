@@ -6,16 +6,16 @@ app = Flask(__name__)
 
 # Cookies da sessão logada (já autenticada)
 COOKIES = {
-    "csrftoken": "yBE0gLfLlSG2OADk3EFCkM",
-    "datr": "44RkaAql36k7tgldbwVulUxK",
-    "ds_user_id": "73861894039",
-    "ig_did": "C6223CC8-F9F9-47D6-A7B8-CA5519EB9A16",
+    "csrftoken": "QQfShlF-8U-1Ni7pro2pnR",
+    "datr": "8FBoaNo0GUtpuHd5BZbB8KVU",
+    "ds_user_id": "7044791305",
+    "ig_did": "072D1CA0-2CF0-4A9B-BE35-38BF5DF24FAF",
     "ig_nrcb": "1",
     "mid": "aGSE4wAEAAEgj9IEMeRGPsLFdtH-",
     "ps_l": "1",
     "ps_n": "1",
-    "rur": 'NCG,73861894039,1783109112:01fedb9c2e271152572d212b4b314f7788d55b2ea62d318cc2c4a92f6fafd8df889a3031',
-    "sessionid": "73861894039:oA1nMnpip2oFg4:10:AYerR_HME7RUj6Y26xARn_to-HJVM3zZn_Kkg4XXgg",
+    "rur": "CCO\0547044791305\0541783202956:01fe3178246620d4f7bbd97e4ac18b40471aba04882e90b42c14244831cbd69ffa821767",
+    "sessionid": "7044791305%3AWBjhae0EHEbr1Z%3A25%3AAYcJvtn15LsBJQ3hjry13GWQTTpNfeBuXBgKs_ZEcQ",
     "wd": "400x821"
 }
 
